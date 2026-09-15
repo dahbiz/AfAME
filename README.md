@@ -17,7 +17,10 @@ Start with the commands below. See [validation results](VALIDATION.md), [develop
 
 Requires a C++17 compiler and CPU threads. Python 3 is needed only for the independent verifier and integration tests. There are no MPI, PETSc, OpenMP, or third-party Python dependencies.
 
-The repository contains portable source. Build the executable on your platform or use the automatic launcher.
+The repository contains portable source. Clone it, then build the executable on your platform or use the automatic launcher.
+
+    git clone https://github.com/dahbiz/AmePhaseStates.git
+    cd AmePhaseStates
 
 From this directory:
 

@@ -19,8 +19,8 @@ Requires a C++17 compiler and CPU threads. Python 3 is needed only for the indep
 
 The repository contains portable source. Clone it, then build the executable on your platform or use the automatic launcher.
 
-    git clone https://github.com/dahbiz/AmePhaseStates.git
-    cd AmePhaseStates
+    git clone https://github.com/dahbiz/AfAME.git
+    cd AfAME
 
 From this directory:
 

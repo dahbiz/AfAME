@@ -1,0 +1,8 @@
+{
+"schema":1,"version":"AME7DIA_PT-1.0","N":4,"d":2,"ame":false,"verified_cost":2,"cuts":10,"failing_cuts":2,
+"phase_convention":"tensor of fields; exp(2*pi*i*Tr(sum_{i<=j} Pij*xi*xj)/p); labels in polynomial basis",
+"fields":[{"p":2,"m":1,"q":2,"modulus":[],"matrix":[[0,1,1,0],[1,0,0,1],[1,0,0,1],[0,1,1,0]]}],
+"parameters":{"seed":42,"replicas":4,"steps":120,"restarts":1,"seed_tries":1,"swap_interval":5,"log_interval":60,"tmin":0.25,"tmax":50,"guide":0.84999999999999998,"diagonal":false,"keep_going":true,"verify_only":false},
+"winning_slot_seed":13679457532755275413,"winning_restart":0,"winning_slot":0,"winning_step":0,"proposals":480,"swap_attempts":36,"swap_accepts":32,
+"timings_seconds":{"setup":0.00029595799999999997,"search":0.001252792,"verification":1.8330000000000001e-06,"data_export":0.00063029199999999996,"total_through_data_export":0.0021808750000000001}
+}

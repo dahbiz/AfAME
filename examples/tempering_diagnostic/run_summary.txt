@@ -1,0 +1,10 @@
+AME7DIA_PT-1.0
+NOT AME: search best only; no optimality or nonexistence claim
+N=4 d=2 cuts=10 failing=2 cost=2
+seed=42 proposals=480 swap_attempts=36 swap_accepts=32
+setup_seconds=0.00029595799999999997
+search_seconds=0.001252792
+verification_seconds=1.8330000000000001e-06
+data_export_seconds=0.00063029199999999996
+total_through_data_export_seconds=0.0021808750000000001
+Timing excludes writing this summary and certificate metadata.

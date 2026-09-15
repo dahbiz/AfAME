@@ -1,0 +1,22 @@
+# Local builds and generated artifacts
+/AME7DIA_PT
+/tests/test_core
+/tests/test_core_sanitized
+/tests/AME7DIA_PT_sanitized
+/tests/AME7DIA_PT_tsan
+/tests/tsan_result.txt
+*.dSYM/
+*.o
+__pycache__/
+*.py[cod]
+.DS_Store
+/AME_N*/
+/paper_recheck/
+/build/
+/dist/
+/.venv/
+
+# Local credentials and configuration
+.env
+.env.*
+!.env.example

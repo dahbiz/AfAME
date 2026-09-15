@@ -1,0 +1,5 @@
+AME7DIA_PT-1.0 N=5 d=2 cuts=15 replicas=4
+GF(2) modulus coefficients:
+restart=0 step=25 best_cost=0 swaps=0/0
+CONFIRMED AME failing=0/15 total_seconds=0.00131429
+Output: examples/search_5_2

@@ -1,0 +1,6 @@
+AME7DIA_PT-1.0 N=4 d=2 cuts=10 replicas=4
+GF(2) modulus coefficients:
+restart=0 step=60 best_cost=2 swaps=14/18
+restart=0 step=120 best_cost=2 swaps=32/36
+NOT AME failing=2/10 total_seconds=0.00218088
+Output: examples/tempering_diagnostic

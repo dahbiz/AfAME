@@ -1,0 +1,10 @@
+AME7DIA_PT-1.0
+CONFIRMED AME
+N=17 d=10001 cuts=65535 failing=0 cost=0
+seed=42 proposals=239 swap_attempts=17 swap_accepts=10
+setup_seconds=0.038536916999999997
+search_seconds=1.196780833
+verification_seconds=0.055615207999999999
+data_export_seconds=0.107492959
+total_through_data_export_seconds=1.398425917
+Timing excludes writing this summary and certificate metadata.

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this software and credit its developer, Dr. Zakaria Dahbi."
+type: software
+title: "AfAME: Parallel Tempering and Algebraic Certification of AME States"
+version: "1.0.0"
+authors:
+  - family-names: Dahbi
+    given-names: Zakaria
+abstract: >-
+  AfAME searches quadratic-phase quantum states using finite-field cut ranks
+  and parallel tempering, and certifies candidates using exhaustive cut
+  enumeration and an independent Python verifier.
+keywords:
+  - quantum information
+  - absolutely maximally entangled states
+  - parallel tempering
+  - finite fields
+  - graph states

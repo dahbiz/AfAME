@@ -1,0 +1,5 @@
+# GF(2^1), base-p polynomial labels; modulus (low to high):
+0 1 1 0
+1 0 0 1
+1 0 0 1
+0 1 1 0

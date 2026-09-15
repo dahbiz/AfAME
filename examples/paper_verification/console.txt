@@ -1,0 +1,5 @@
+AME7DIA_PT-1.0 N=17 d=10001 cuts=65535 replicas=0
+GF(73) modulus coefficients:
+GF(137) modulus coefficients:
+CONFIRMED AME failing=0/65535 total_seconds=0.206611
+Output: examples/paper_verification

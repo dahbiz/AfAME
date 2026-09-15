@@ -1,0 +1,14 @@
+k=1: cumulative cuts=17, failures=0
+k=2: cumulative cuts=153, failures=0
+k=3: cumulative cuts=833, failures=0
+k=4: cumulative cuts=3213, failures=0
+k=5: cumulative cuts=9401, failures=0
+k=6: cumulative cuts=21777, failures=0
+k=7: cumulative cuts=41225, failures=0
+k=8: cumulative cuts=65535, failures=0
+{
+  "ame": true,
+  "cuts": 65535,
+  "failing_cuts": 0,
+  "verified_cost": 0
+}

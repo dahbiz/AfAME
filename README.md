@@ -92,15 +92,6 @@ Certification enumerates all nonempty subsets of size at most floor(N/2), includ
 
 Timing includes data export but excludes writing the final certificate/summary metadata. Verification-only runs have zero search time. Timings in the included examples are single local runs, not performance benchmarks.
 
-## Tests and provenance
-
-    make test CXX=clang++ PYTHON=python3
-    make sanitize CXX=clang++ PYTHON=python3
-
-See VALIDATION.md for the executed checks. The original supplied source had SHA-256:
-7737b63732425d55a05a5314ea4ea4b685d87ee4f739509651481300ef7f8f50.
-
-This implementation develops Dr. Zakaria Dahbi's AME7DIA research code. Refactoring, parallel-tempering implementation, and tests were produced with Codex assistance; details are recorded in [AUTHORS.md](AUTHORS.md). Software validation does not establish scientific novelty or reproduce historical runtime claims.
 
 ## Citation and licensing
 

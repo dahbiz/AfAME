@@ -14,4 +14,4 @@ For a proposed change:
 
 Do not claim nonexistence or global optimality from an unsuccessful finite search. Separate field arithmetic from residue-ring arithmetic. Changes to state conventions, certification, or acceptance probabilities need a clear mathematical justification.
 
-Licensing terms are currently unspecified; discuss contribution and reuse terms with the developer before submitting code.
+By submitting code you agree it will be distributed under the GNU General Public License, version 3 or later, as published by the Free Software Foundation. Reuse and redistribution terms are defined by [LICENSE](LICENSE).

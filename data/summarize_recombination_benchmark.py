@@ -1,11 +1,28 @@
 #!/usr/bin/env python3
+# AfAME - parallel-tempering search and algebraic certification of
+# absolutely maximally entangled (AME) states.
+# Copyright (C) 2026 Zakaria Dahbi
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program. If not, see <https://www.gnu.org/licenses/>.
+#
 """Reproduce the frozen sector-recombination benchmark summary.
 
 The expensive 150-run search is represented by the supplied per-seed CSV.
 This script validates every row, recomputes the seed-bootstrap intervals, and
 writes a machine-readable summary. To regenerate new trajectories, compile the
 instrumented C++ source in this folder against the AfAME revision described in
-benchmark_protocol.md, then export the same CSV schema.
+recombination_benchmark_protocol.md, then export the same CSV schema.
 """
 from __future__ import annotations
 

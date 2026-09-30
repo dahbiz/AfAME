@@ -3,6 +3,7 @@ message: "Please cite this software and credit its developer, Dr. Zakaria Dahbi.
 type: software
 title: "AfAME: Parallel Tempering and Algebraic Certification of AME States"
 version: "1.0.0"
+license: "GPL-3.0-or-later"
 repository-code: "https://github.com/dahbiz/AfAME"
 url: "https://github.com/dahbiz/AfAME"
 authors:

@@ -1,0 +1,9 @@
+{
+"schema":1,"version":"AME7DIA_PT-1.0","N":12,"d":6,"ame":false,"verified_cost":872,"cuts":2509,"failing_cuts":662,
+"phase_convention":"tensor of fields; exp(2*pi*i*Tr(sum_{i<=j} Pij*xi*xj)/p); labels in polynomial basis",
+"fields":[{"p":2,"m":1,"q":2,"modulus":[],"matrix":[[0,0,0,0,0,1,0,1,1,1,1,0],[0,0,1,0,1,1,0,0,0,0,1,0],[0,1,0,1,1,0,1,0,0,1,1,0],[0,0,1,0,0,0,1,1,1,1,0,1],[0,1,1,0,0,1,1,1,0,1,0,1],[1,1,0,0,1,0,1,1,0,0,1,0],[0,0,1,1,1,1,0,0,1,0,0,0],[1,0,0,1,1,1,0,0,1,1,0,1],[1,0,0,1,0,0,1,1,0,0,0,1],[1,0,1,1,1,0,0,1,0,0,0,1],[1,1,1,0,0,1,0,0,0,0,0,1],[0,0,0,1,1,0,0,1,1,1,1,0]]},{"p":3,"m":1,"q":3,"modulus":[],"matrix":[[0,1,0,1,2,2,2,1,1,0,0,2],[1,0,2,2,0,2,0,1,1,0,0,2],[0,2,0,2,1,2,1,0,1,1,1,2],[1,2,2,0,2,1,0,2,2,1,1,0],[2,0,1,2,0,1,1,2,1,0,2,0],[2,2,2,1,1,0,1,0,0,1,2,1],[2,0,1,0,1,1,0,0,1,1,0,1],[1,1,0,2,2,0,0,0,0,1,2,1],[1,1,1,2,1,0,1,0,0,0,0,1],[0,0,1,1,0,1,1,1,0,0,0,1],[0,0,1,1,2,2,0,2,0,0,0,1],[2,2,2,0,0,1,1,1,1,1,1,0]]}],
+"parameters":{"seed":1009,"replicas":4,"steps":500,"restarts":1,"seed_tries":1,"swap_interval":10,"log_interval":500,"tmin":0.25,"tmax":50,"guide":0.84999999999999998,"diagonal":false,"keep_going":false,"verify_only":false},
+"winning_slot_seed":5937750330423367825,"winning_restart":0,"winning_slot":1,"winning_step":202,"proposals":2000,"swap_attempts":75,"swap_accepts":8,
+"best_joint_cost":883,"sector_recombined":true,"best_sector_costs":[588,284],"sector_sources":[{"seed":10556195989753963914,"restart":0,"slot":0,"step":57},{"seed":9032200174619114894,"restart":0,"slot":2,"step":283}],
+"timings_seconds":{"setup":0.00075874999999999998,"search":0.16958358300000001,"verification":0.00094470899999999996,"data_export":0.003028541,"total_through_data_export":0.174315583}
+}

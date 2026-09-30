@@ -1,0 +1,9 @@
+{
+  "binary_minimum": 28,
+  "ternary_minimum": 16,
+  "product_minimum": 44,
+  "matched_ternary_cut_ranks": 132354,
+  "native_afame_witness_passed": true,
+  "corrupt_input_rejected": true,
+  "classification_coverage": "Inherited from the published Danielsen classification and Read-Wilson graph atlas; not regenerated here"
+}

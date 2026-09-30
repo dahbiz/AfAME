@@ -1,0 +1,9 @@
+{
+"schema":1,"version":"AME7DIA_PT-1.0","N":10,"d":6,"ame":false,"verified_cost":203,"cuts":637,"failing_cuts":175,
+"phase_convention":"tensor of fields; exp(2*pi*i*Tr(sum_{i<=j} Pij*xi*xj)/p); labels in polynomial basis",
+"fields":[{"p":2,"m":1,"q":2,"modulus":[],"matrix":[[0,1,1,0,1,1,1,1,0,0],[1,0,1,1,0,0,1,1,1,1],[1,1,0,1,1,1,1,1,0,1],[0,1,1,0,1,1,0,0,0,1],[1,0,1,1,0,1,1,0,0,1],[1,0,1,1,1,0,0,1,1,1],[1,1,1,0,1,0,0,1,1,0],[1,1,1,0,0,1,1,0,1,1],[0,1,0,0,0,1,1,1,0,1],[0,1,1,1,1,1,0,1,1,0]]},{"p":3,"m":1,"q":3,"modulus":[],"matrix":[[0,1,1,0,1,2,1,0,1,0],[1,0,1,1,0,2,2,2,2,1],[1,1,0,2,2,2,2,2,0,0],[0,1,2,0,2,0,2,2,2,0],[1,0,2,2,0,1,2,2,2,1],[2,2,2,0,1,0,2,2,1,1],[1,2,2,2,2,2,0,1,1,1],[0,2,2,2,2,2,1,0,2,2],[1,2,0,2,2,1,1,2,0,0],[0,1,0,0,1,1,1,2,0,0]]}],
+"parameters":{"seed":1003,"replicas":4,"steps":500,"restarts":1,"seed_tries":1,"swap_interval":10,"log_interval":500,"tmin":0.25,"tmax":50,"guide":0.84999999999999998,"diagonal":false,"keep_going":false,"verify_only":false},
+"winning_slot_seed":14475286075729528454,"winning_restart":0,"winning_slot":1,"winning_step":106,"proposals":2000,"swap_attempts":75,"swap_accepts":3,
+"best_joint_cost":203,"sector_recombined":false,"best_sector_costs":[142,61],"sector_sources":[{"seed":11139815719974631864,"restart":0,"slot":0,"step":62},{"seed":14475286075729528454,"restart":0,"slot":1,"step":92}],
+"timings_seconds":{"setup":0.000336208,"search":0.039816249999999997,"verification":0.00014137500000000001,"data_export":0.0010387090000000001,"total_through_data_export":0.041332542}
+}

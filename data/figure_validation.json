@@ -1,0 +1,35 @@
+[
+  {
+    "N": 10,
+    "joint_mean": 200.98,
+    "recombined_mean": 200.58,
+    "mean_gain": 0.4,
+    "ci95": [
+      0.16,
+      0.68
+    ],
+    "strict_gains": 9
+  },
+  {
+    "N": 11,
+    "joint_mean": 95.06,
+    "recombined_mean": 93.7,
+    "mean_gain": 1.36,
+    "ci95": [
+      0.8,
+      1.98
+    ],
+    "strict_gains": 18
+  },
+  {
+    "N": 12,
+    "joint_mean": 867.6,
+    "recombined_mean": 858.18,
+    "mean_gain": 9.42,
+    "ci95": [
+      6.66,
+      12.4
+    ],
+    "strict_gains": 34
+  }
+]

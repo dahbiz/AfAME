@@ -1,0 +1,8 @@
+{
+"schema":1,"version":"AME7DIA_PT-1.0","N":11,"d":3,"ame":false,"verified_cost":12,"cuts":1023,"failing_cuts":12,
+"phase_convention":"tensor of fields; exp(2*pi*i*Tr(sum_{i<=j} Pij*xi*xj)/p); labels in polynomial basis",
+"fields":[{"p":3,"m":1,"q":3,"modulus":[],"matrix":[[0,0,0,2,1,0,2,0,1,0,2],[0,0,1,1,2,1,0,2,2,2,2],[0,1,0,0,0,1,0,1,1,1,2],[2,1,0,0,0,1,1,1,1,0,0],[1,2,0,0,0,0,1,1,2,1,0],[0,1,1,1,0,0,2,2,1,0,0],[2,0,0,1,1,2,0,0,1,2,1],[0,2,1,1,1,2,0,0,2,0,0],[1,2,1,1,2,1,1,2,0,1,1],[0,2,1,0,1,0,2,0,1,0,0],[2,2,2,0,0,0,1,0,1,0,0]]}],
+"parameters":{"seed":48,"replicas":4,"steps":2000,"restarts":5,"seed_tries":1,"swap_interval":25,"log_interval":2000,"tmin":0.25,"tmax":50,"guide":0.84999999999999998,"diagonal":false,"keep_going":false,"verify_only":false},
+"winning_slot_seed":291080821224767267,"winning_restart":0,"winning_slot":0,"winning_step":301,"proposals":40000,"swap_attempts":600,"swap_accepts":107,
+"timings_seconds":{"setup":0.00063291699999999998,"search":1.6895403330000001,"verification":0.000254875,"data_export":0.0022352499999999998,"total_through_data_export":1.692663375}
+}

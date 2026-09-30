@@ -1,0 +1,72 @@
+{
+  "cost": 6,
+  "histogram": {
+    "1,0": 11,
+    "2,0": 55,
+    "3,0": 165,
+    "4,0": 330,
+    "5,0": 456,
+    "5,1": 6
+  },
+  "bad_subsets_one_based": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    [
+      1,
+      2,
+      3,
+      6,
+      10
+    ],
+    [
+      1,
+      2,
+      4,
+      8,
+      9
+    ],
+    [
+      1,
+      2,
+      5,
+      7,
+      11
+    ],
+    [
+      1,
+      2,
+      6,
+      7,
+      8
+    ],
+    [
+      1,
+      2,
+      9,
+      10,
+      11
+    ]
+  ],
+  "bad_four_erasure_patterns_by_reference": [
+    6,
+    6,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "four_erasure_patterns_per_reference": 210,
+  "mean_leakage_in_log3_units": "1/77",
+  "uniformity_forcing_bound": 8,
+  "classification_input": "Danielsen 2012 Eq. W11,alpha: alpha in {0,6,...,50,54,60}; unique alpha=0 class. Not regenerated."
+}

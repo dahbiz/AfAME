@@ -1,0 +1,39 @@
+{
+  "independent_cut_ranks_match": true,
+  "matched_cut_ranks": 132354,
+  "paper_certificate": {
+    "ame": false,
+    "cuts": 162,
+    "failing_cuts": 36,
+    "verified_cost": 44
+  },
+  "paper_sector_costs": [
+    28,
+    16
+  ],
+  "paper_sector_histograms": [
+    {
+      "q": 2,
+      "histogram_size_deficit": {
+        "1,0": 8,
+        "2,0": 28,
+        "3,0": 56,
+        "4,2": 2,
+        "4,0": 48,
+        "4,1": 20
+      }
+    },
+    {
+      "q": 3,
+      "histogram_size_deficit": {
+        "1,0": 8,
+        "2,0": 28,
+        "3,0": 56,
+        "4,0": 54,
+        "4,1": 16
+      }
+    }
+  ],
+  "paper_certificate_sha256": "48d89e864186940feeb45d43770aaabe069319cdaaa9feaa2eb78e5f4333c0ff",
+  "scope": "C*_3(8)=16 from the complete published classification; combined with the separately verified binary minimum 28, C*_6(8)=44 in the product family. No unrestricted AME nonexistence conclusion."
+}

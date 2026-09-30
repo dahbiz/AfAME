@@ -1,0 +1,1507 @@
+{
+  "runs": 150,
+  "baseline_matches": 9,
+  "frozen_integer_results_match": true,
+  "checks": [
+    {
+      "N": 10,
+      "seed": 1000,
+      "joint_cost": 200,
+      "recombined_cost": 200,
+      "binary_cost": 142,
+      "ternary_cost": 58,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1001,
+      "joint_cost": 200,
+      "recombined_cost": 200,
+      "binary_cost": 142,
+      "ternary_cost": 58,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1002,
+      "joint_cost": 196,
+      "recombined_cost": 196,
+      "binary_cost": 142,
+      "ternary_cost": 54,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1003,
+      "joint_cost": 203,
+      "recombined_cost": 203,
+      "binary_cost": 142,
+      "ternary_cost": 61,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1004,
+      "joint_cost": 207,
+      "recombined_cost": 206,
+      "binary_cost": 142,
+      "ternary_cost": 64,
+      "proposals": 2000,
+      "gain": 1
+    },
+    {
+      "N": 10,
+      "seed": 1005,
+      "joint_cost": 200,
+      "recombined_cost": 200,
+      "binary_cost": 142,
+      "ternary_cost": 58,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1006,
+      "joint_cost": 200,
+      "recombined_cost": 200,
+      "binary_cost": 142,
+      "ternary_cost": 58,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1007,
+      "joint_cost": 200,
+      "recombined_cost": 200,
+      "binary_cost": 142,
+      "ternary_cost": 58,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1008,
+      "joint_cost": 200,
+      "recombined_cost": 200,
+      "binary_cost": 142,
+      "ternary_cost": 58,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1009,
+      "joint_cost": 206,
+      "recombined_cost": 206,
+      "binary_cost": 142,
+      "ternary_cost": 64,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1010,
+      "joint_cost": 206,
+      "recombined_cost": 206,
+      "binary_cost": 142,
+      "ternary_cost": 64,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1011,
+      "joint_cost": 200,
+      "recombined_cost": 200,
+      "binary_cost": 142,
+      "ternary_cost": 58,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1012,
+      "joint_cost": 200,
+      "recombined_cost": 200,
+      "binary_cost": 142,
+      "ternary_cost": 58,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1013,
+      "joint_cost": 196,
+      "recombined_cost": 196,
+      "binary_cost": 142,
+      "ternary_cost": 54,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1014,
+      "joint_cost": 198,
+      "recombined_cost": 196,
+      "binary_cost": 142,
+      "ternary_cost": 54,
+      "proposals": 2000,
+      "gain": 2
+    },
+    {
+      "N": 10,
+      "seed": 1015,
+      "joint_cost": 203,
+      "recombined_cost": 203,
+      "binary_cost": 142,
+      "ternary_cost": 61,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1016,
+      "joint_cost": 202,
+      "recombined_cost": 200,
+      "binary_cost": 142,
+      "ternary_cost": 58,
+      "proposals": 2000,
+      "gain": 2
+    },
+    {
+      "N": 10,
+      "seed": 1017,
+      "joint_cost": 200,
+      "recombined_cost": 200,
+      "binary_cost": 142,
+      "ternary_cost": 58,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1018,
+      "joint_cost": 206,
+      "recombined_cost": 206,
+      "binary_cost": 142,
+      "ternary_cost": 64,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1019,
+      "joint_cost": 196,
+      "recombined_cost": 196,
+      "binary_cost": 142,
+      "ternary_cost": 54,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1020,
+      "joint_cost": 192,
+      "recombined_cost": 190,
+      "binary_cost": 142,
+      "ternary_cost": 48,
+      "proposals": 2000,
+      "gain": 2
+    },
+    {
+      "N": 10,
+      "seed": 1021,
+      "joint_cost": 206,
+      "recombined_cost": 206,
+      "binary_cost": 142,
+      "ternary_cost": 64,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1022,
+      "joint_cost": 196,
+      "recombined_cost": 196,
+      "binary_cost": 142,
+      "ternary_cost": 54,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1023,
+      "joint_cost": 200,
+      "recombined_cost": 200,
+      "binary_cost": 142,
+      "ternary_cost": 58,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1024,
+      "joint_cost": 197,
+      "recombined_cost": 197,
+      "binary_cost": 142,
+      "ternary_cost": 55,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1025,
+      "joint_cost": 207,
+      "recombined_cost": 207,
+      "binary_cost": 142,
+      "ternary_cost": 65,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1026,
+      "joint_cost": 203,
+      "recombined_cost": 203,
+      "binary_cost": 142,
+      "ternary_cost": 61,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1027,
+      "joint_cost": 198,
+      "recombined_cost": 196,
+      "binary_cost": 142,
+      "ternary_cost": 54,
+      "proposals": 2000,
+      "gain": 2
+    },
+    {
+      "N": 10,
+      "seed": 1028,
+      "joint_cost": 207,
+      "recombined_cost": 207,
+      "binary_cost": 142,
+      "ternary_cost": 65,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1029,
+      "joint_cost": 200,
+      "recombined_cost": 200,
+      "binary_cost": 142,
+      "ternary_cost": 58,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1030,
+      "joint_cost": 194,
+      "recombined_cost": 190,
+      "binary_cost": 142,
+      "ternary_cost": 48,
+      "proposals": 2000,
+      "gain": 4
+    },
+    {
+      "N": 10,
+      "seed": 1031,
+      "joint_cost": 196,
+      "recombined_cost": 196,
+      "binary_cost": 142,
+      "ternary_cost": 54,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1032,
+      "joint_cost": 200,
+      "recombined_cost": 200,
+      "binary_cost": 142,
+      "ternary_cost": 58,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1033,
+      "joint_cost": 200,
+      "recombined_cost": 200,
+      "binary_cost": 142,
+      "ternary_cost": 58,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1034,
+      "joint_cost": 202,
+      "recombined_cost": 200,
+      "binary_cost": 142,
+      "ternary_cost": 58,
+      "proposals": 2000,
+      "gain": 2
+    },
+    {
+      "N": 10,
+      "seed": 1035,
+      "joint_cost": 197,
+      "recombined_cost": 197,
+      "binary_cost": 142,
+      "ternary_cost": 55,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1036,
+      "joint_cost": 204,
+      "recombined_cost": 202,
+      "binary_cost": 142,
+      "ternary_cost": 60,
+      "proposals": 2000,
+      "gain": 2
+    },
+    {
+      "N": 10,
+      "seed": 1037,
+      "joint_cost": 206,
+      "recombined_cost": 206,
+      "binary_cost": 142,
+      "ternary_cost": 64,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1038,
+      "joint_cost": 206,
+      "recombined_cost": 206,
+      "binary_cost": 142,
+      "ternary_cost": 64,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1039,
+      "joint_cost": 206,
+      "recombined_cost": 206,
+      "binary_cost": 142,
+      "ternary_cost": 64,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1040,
+      "joint_cost": 197,
+      "recombined_cost": 197,
+      "binary_cost": 142,
+      "ternary_cost": 55,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1041,
+      "joint_cost": 190,
+      "recombined_cost": 190,
+      "binary_cost": 142,
+      "ternary_cost": 48,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1042,
+      "joint_cost": 200,
+      "recombined_cost": 200,
+      "binary_cost": 142,
+      "ternary_cost": 58,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1043,
+      "joint_cost": 206,
+      "recombined_cost": 206,
+      "binary_cost": 142,
+      "ternary_cost": 64,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1044,
+      "joint_cost": 203,
+      "recombined_cost": 200,
+      "binary_cost": 142,
+      "ternary_cost": 58,
+      "proposals": 2000,
+      "gain": 3
+    },
+    {
+      "N": 10,
+      "seed": 1045,
+      "joint_cost": 206,
+      "recombined_cost": 206,
+      "binary_cost": 142,
+      "ternary_cost": 64,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1046,
+      "joint_cost": 196,
+      "recombined_cost": 196,
+      "binary_cost": 142,
+      "ternary_cost": 54,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1047,
+      "joint_cost": 206,
+      "recombined_cost": 206,
+      "binary_cost": 142,
+      "ternary_cost": 64,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1048,
+      "joint_cost": 203,
+      "recombined_cost": 203,
+      "binary_cost": 142,
+      "ternary_cost": 61,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 10,
+      "seed": 1049,
+      "joint_cost": 206,
+      "recombined_cost": 206,
+      "binary_cost": 142,
+      "ternary_cost": 64,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1000,
+      "joint_cost": 80,
+      "recombined_cost": 80,
+      "binary_cost": 66,
+      "ternary_cost": 14,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1001,
+      "joint_cost": 87,
+      "recombined_cost": 87,
+      "binary_cost": 66,
+      "ternary_cost": 21,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1002,
+      "joint_cost": 91,
+      "recombined_cost": 87,
+      "binary_cost": 66,
+      "ternary_cost": 21,
+      "proposals": 2000,
+      "gain": 4
+    },
+    {
+      "N": 11,
+      "seed": 1003,
+      "joint_cost": 101,
+      "recombined_cost": 101,
+      "binary_cost": 80,
+      "ternary_cost": 21,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1004,
+      "joint_cost": 101,
+      "recombined_cost": 101,
+      "binary_cost": 80,
+      "ternary_cost": 21,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1005,
+      "joint_cost": 92,
+      "recombined_cost": 87,
+      "binary_cost": 66,
+      "ternary_cost": 21,
+      "proposals": 2000,
+      "gain": 5
+    },
+    {
+      "N": 11,
+      "seed": 1006,
+      "joint_cost": 85,
+      "recombined_cost": 85,
+      "binary_cost": 66,
+      "ternary_cost": 19,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1007,
+      "joint_cost": 116,
+      "recombined_cost": 115,
+      "binary_cost": 94,
+      "ternary_cost": 21,
+      "proposals": 2000,
+      "gain": 1
+    },
+    {
+      "N": 11,
+      "seed": 1008,
+      "joint_cost": 92,
+      "recombined_cost": 89,
+      "binary_cost": 66,
+      "ternary_cost": 23,
+      "proposals": 2000,
+      "gain": 3
+    },
+    {
+      "N": 11,
+      "seed": 1009,
+      "joint_cost": 91,
+      "recombined_cost": 90,
+      "binary_cost": 66,
+      "ternary_cost": 24,
+      "proposals": 2000,
+      "gain": 1
+    },
+    {
+      "N": 11,
+      "seed": 1010,
+      "joint_cost": 104,
+      "recombined_cost": 104,
+      "binary_cost": 80,
+      "ternary_cost": 24,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1011,
+      "joint_cost": 86,
+      "recombined_cost": 86,
+      "binary_cost": 66,
+      "ternary_cost": 20,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1012,
+      "joint_cost": 86,
+      "recombined_cost": 86,
+      "binary_cost": 66,
+      "ternary_cost": 20,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1013,
+      "joint_cost": 89,
+      "recombined_cost": 89,
+      "binary_cost": 66,
+      "ternary_cost": 23,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1014,
+      "joint_cost": 99,
+      "recombined_cost": 99,
+      "binary_cost": 80,
+      "ternary_cost": 19,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1015,
+      "joint_cost": 89,
+      "recombined_cost": 89,
+      "binary_cost": 66,
+      "ternary_cost": 23,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1016,
+      "joint_cost": 107,
+      "recombined_cost": 102,
+      "binary_cost": 80,
+      "ternary_cost": 22,
+      "proposals": 2000,
+      "gain": 5
+    },
+    {
+      "N": 11,
+      "seed": 1017,
+      "joint_cost": 88,
+      "recombined_cost": 88,
+      "binary_cost": 66,
+      "ternary_cost": 22,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1018,
+      "joint_cost": 93,
+      "recombined_cost": 93,
+      "binary_cost": 66,
+      "ternary_cost": 27,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1019,
+      "joint_cost": 88,
+      "recombined_cost": 88,
+      "binary_cost": 66,
+      "ternary_cost": 22,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1020,
+      "joint_cost": 88,
+      "recombined_cost": 88,
+      "binary_cost": 66,
+      "ternary_cost": 22,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1021,
+      "joint_cost": 87,
+      "recombined_cost": 87,
+      "binary_cost": 66,
+      "ternary_cost": 21,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1022,
+      "joint_cost": 85,
+      "recombined_cost": 85,
+      "binary_cost": 66,
+      "ternary_cost": 19,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1023,
+      "joint_cost": 99,
+      "recombined_cost": 99,
+      "binary_cost": 80,
+      "ternary_cost": 19,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1024,
+      "joint_cost": 86,
+      "recombined_cost": 85,
+      "binary_cost": 66,
+      "ternary_cost": 19,
+      "proposals": 2000,
+      "gain": 1
+    },
+    {
+      "N": 11,
+      "seed": 1025,
+      "joint_cost": 113,
+      "recombined_cost": 113,
+      "binary_cost": 94,
+      "ternary_cost": 19,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1026,
+      "joint_cost": 88,
+      "recombined_cost": 88,
+      "binary_cost": 66,
+      "ternary_cost": 22,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1027,
+      "joint_cost": 107,
+      "recombined_cost": 103,
+      "binary_cost": 80,
+      "ternary_cost": 23,
+      "proposals": 2000,
+      "gain": 4
+    },
+    {
+      "N": 11,
+      "seed": 1028,
+      "joint_cost": 95,
+      "recombined_cost": 89,
+      "binary_cost": 66,
+      "ternary_cost": 23,
+      "proposals": 2000,
+      "gain": 6
+    },
+    {
+      "N": 11,
+      "seed": 1029,
+      "joint_cost": 85,
+      "recombined_cost": 85,
+      "binary_cost": 66,
+      "ternary_cost": 19,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1030,
+      "joint_cost": 117,
+      "recombined_cost": 117,
+      "binary_cost": 94,
+      "ternary_cost": 23,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1031,
+      "joint_cost": 91,
+      "recombined_cost": 87,
+      "binary_cost": 66,
+      "ternary_cost": 21,
+      "proposals": 2000,
+      "gain": 4
+    },
+    {
+      "N": 11,
+      "seed": 1032,
+      "joint_cost": 99,
+      "recombined_cost": 99,
+      "binary_cost": 80,
+      "ternary_cost": 19,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1033,
+      "joint_cost": 88,
+      "recombined_cost": 87,
+      "binary_cost": 66,
+      "ternary_cost": 21,
+      "proposals": 2000,
+      "gain": 1
+    },
+    {
+      "N": 11,
+      "seed": 1034,
+      "joint_cost": 86,
+      "recombined_cost": 86,
+      "binary_cost": 66,
+      "ternary_cost": 20,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1035,
+      "joint_cost": 91,
+      "recombined_cost": 91,
+      "binary_cost": 66,
+      "ternary_cost": 25,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1036,
+      "joint_cost": 109,
+      "recombined_cost": 103,
+      "binary_cost": 80,
+      "ternary_cost": 23,
+      "proposals": 2000,
+      "gain": 6
+    },
+    {
+      "N": 11,
+      "seed": 1037,
+      "joint_cost": 109,
+      "recombined_cost": 102,
+      "binary_cost": 80,
+      "ternary_cost": 22,
+      "proposals": 2000,
+      "gain": 7
+    },
+    {
+      "N": 11,
+      "seed": 1038,
+      "joint_cost": 91,
+      "recombined_cost": 87,
+      "binary_cost": 66,
+      "ternary_cost": 21,
+      "proposals": 2000,
+      "gain": 4
+    },
+    {
+      "N": 11,
+      "seed": 1039,
+      "joint_cost": 89,
+      "recombined_cost": 89,
+      "binary_cost": 66,
+      "ternary_cost": 23,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1040,
+      "joint_cost": 104,
+      "recombined_cost": 101,
+      "binary_cost": 80,
+      "ternary_cost": 21,
+      "proposals": 2000,
+      "gain": 3
+    },
+    {
+      "N": 11,
+      "seed": 1041,
+      "joint_cost": 106,
+      "recombined_cost": 101,
+      "binary_cost": 80,
+      "ternary_cost": 21,
+      "proposals": 2000,
+      "gain": 5
+    },
+    {
+      "N": 11,
+      "seed": 1042,
+      "joint_cost": 107,
+      "recombined_cost": 104,
+      "binary_cost": 80,
+      "ternary_cost": 24,
+      "proposals": 2000,
+      "gain": 3
+    },
+    {
+      "N": 11,
+      "seed": 1043,
+      "joint_cost": 102,
+      "recombined_cost": 102,
+      "binary_cost": 80,
+      "ternary_cost": 22,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1044,
+      "joint_cost": 99,
+      "recombined_cost": 99,
+      "binary_cost": 80,
+      "ternary_cost": 19,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1045,
+      "joint_cost": 87,
+      "recombined_cost": 87,
+      "binary_cost": 66,
+      "ternary_cost": 21,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1046,
+      "joint_cost": 102,
+      "recombined_cost": 102,
+      "binary_cost": 80,
+      "ternary_cost": 22,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1047,
+      "joint_cost": 92,
+      "recombined_cost": 87,
+      "binary_cost": 66,
+      "ternary_cost": 21,
+      "proposals": 2000,
+      "gain": 5
+    },
+    {
+      "N": 11,
+      "seed": 1048,
+      "joint_cost": 85,
+      "recombined_cost": 85,
+      "binary_cost": 66,
+      "ternary_cost": 19,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 11,
+      "seed": 1049,
+      "joint_cost": 101,
+      "recombined_cost": 101,
+      "binary_cost": 80,
+      "ternary_cost": 21,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 12,
+      "seed": 1000,
+      "joint_cost": 865,
+      "recombined_cost": 865,
+      "binary_cost": 581,
+      "ternary_cost": 284,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 12,
+      "seed": 1001,
+      "joint_cost": 869,
+      "recombined_cost": 869,
+      "binary_cost": 588,
+      "ternary_cost": 281,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 12,
+      "seed": 1002,
+      "joint_cost": 874,
+      "recombined_cost": 869,
+      "binary_cost": 585,
+      "ternary_cost": 284,
+      "proposals": 2000,
+      "gain": 5
+    },
+    {
+      "N": 12,
+      "seed": 1003,
+      "joint_cost": 839,
+      "recombined_cost": 839,
+      "binary_cost": 550,
+      "ternary_cost": 289,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 12,
+      "seed": 1004,
+      "joint_cost": 890,
+      "recombined_cost": 875,
+      "binary_cost": 594,
+      "ternary_cost": 281,
+      "proposals": 2000,
+      "gain": 15
+    },
+    {
+      "N": 12,
+      "seed": 1005,
+      "joint_cost": 827,
+      "recombined_cost": 827,
+      "binary_cost": 546,
+      "ternary_cost": 281,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 12,
+      "seed": 1006,
+      "joint_cost": 791,
+      "recombined_cost": 791,
+      "binary_cost": 507,
+      "ternary_cost": 284,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 12,
+      "seed": 1007,
+      "joint_cost": 869,
+      "recombined_cost": 835,
+      "binary_cost": 558,
+      "ternary_cost": 277,
+      "proposals": 2000,
+      "gain": 34
+    },
+    {
+      "N": 12,
+      "seed": 1008,
+      "joint_cost": 848,
+      "recombined_cost": 820,
+      "binary_cost": 550,
+      "ternary_cost": 270,
+      "proposals": 2000,
+      "gain": 28
+    },
+    {
+      "N": 12,
+      "seed": 1009,
+      "joint_cost": 883,
+      "recombined_cost": 872,
+      "binary_cost": 588,
+      "ternary_cost": 284,
+      "proposals": 2000,
+      "gain": 11
+    },
+    {
+      "N": 12,
+      "seed": 1010,
+      "joint_cost": 929,
+      "recombined_cost": 897,
+      "binary_cost": 594,
+      "ternary_cost": 303,
+      "proposals": 2000,
+      "gain": 32
+    },
+    {
+      "N": 12,
+      "seed": 1011,
+      "joint_cost": 878,
+      "recombined_cost": 872,
+      "binary_cost": 590,
+      "ternary_cost": 282,
+      "proposals": 2000,
+      "gain": 6
+    },
+    {
+      "N": 12,
+      "seed": 1012,
+      "joint_cost": 891,
+      "recombined_cost": 891,
+      "binary_cost": 596,
+      "ternary_cost": 295,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 12,
+      "seed": 1013,
+      "joint_cost": 865,
+      "recombined_cost": 857,
+      "binary_cost": 588,
+      "ternary_cost": 269,
+      "proposals": 2000,
+      "gain": 8
+    },
+    {
+      "N": 12,
+      "seed": 1014,
+      "joint_cost": 891,
+      "recombined_cost": 880,
+      "binary_cost": 596,
+      "ternary_cost": 284,
+      "proposals": 2000,
+      "gain": 11
+    },
+    {
+      "N": 12,
+      "seed": 1015,
+      "joint_cost": 839,
+      "recombined_cost": 834,
+      "binary_cost": 581,
+      "ternary_cost": 253,
+      "proposals": 2000,
+      "gain": 5
+    },
+    {
+      "N": 12,
+      "seed": 1016,
+      "joint_cost": 901,
+      "recombined_cost": 872,
+      "binary_cost": 588,
+      "ternary_cost": 284,
+      "proposals": 2000,
+      "gain": 29
+    },
+    {
+      "N": 12,
+      "seed": 1017,
+      "joint_cost": 878,
+      "recombined_cost": 878,
+      "binary_cost": 581,
+      "ternary_cost": 297,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 12,
+      "seed": 1018,
+      "joint_cost": 822,
+      "recombined_cost": 805,
+      "binary_cost": 515,
+      "ternary_cost": 290,
+      "proposals": 2000,
+      "gain": 17
+    },
+    {
+      "N": 12,
+      "seed": 1019,
+      "joint_cost": 899,
+      "recombined_cost": 890,
+      "binary_cost": 588,
+      "ternary_cost": 302,
+      "proposals": 2000,
+      "gain": 9
+    },
+    {
+      "N": 12,
+      "seed": 1020,
+      "joint_cost": 851,
+      "recombined_cost": 820,
+      "binary_cost": 546,
+      "ternary_cost": 274,
+      "proposals": 2000,
+      "gain": 31
+    },
+    {
+      "N": 12,
+      "seed": 1021,
+      "joint_cost": 871,
+      "recombined_cost": 871,
+      "binary_cost": 581,
+      "ternary_cost": 290,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 12,
+      "seed": 1022,
+      "joint_cost": 857,
+      "recombined_cost": 857,
+      "binary_cost": 588,
+      "ternary_cost": 269,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 12,
+      "seed": 1023,
+      "joint_cost": 865,
+      "recombined_cost": 855,
+      "binary_cost": 588,
+      "ternary_cost": 267,
+      "proposals": 2000,
+      "gain": 10
+    },
+    {
+      "N": 12,
+      "seed": 1024,
+      "joint_cost": 879,
+      "recombined_cost": 870,
+      "binary_cost": 581,
+      "ternary_cost": 289,
+      "proposals": 2000,
+      "gain": 9
+    },
+    {
+      "N": 12,
+      "seed": 1025,
+      "joint_cost": 848,
+      "recombined_cost": 837,
+      "binary_cost": 546,
+      "ternary_cost": 291,
+      "proposals": 2000,
+      "gain": 11
+    },
+    {
+      "N": 12,
+      "seed": 1026,
+      "joint_cost": 883,
+      "recombined_cost": 883,
+      "binary_cost": 592,
+      "ternary_cost": 291,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 12,
+      "seed": 1027,
+      "joint_cost": 870,
+      "recombined_cost": 870,
+      "binary_cost": 586,
+      "ternary_cost": 284,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 12,
+      "seed": 1028,
+      "joint_cost": 865,
+      "recombined_cost": 859,
+      "binary_cost": 590,
+      "ternary_cost": 269,
+      "proposals": 2000,
+      "gain": 6
+    },
+    {
+      "N": 12,
+      "seed": 1029,
+      "joint_cost": 881,
+      "recombined_cost": 876,
+      "binary_cost": 585,
+      "ternary_cost": 291,
+      "proposals": 2000,
+      "gain": 5
+    },
+    {
+      "N": 12,
+      "seed": 1030,
+      "joint_cost": 873,
+      "recombined_cost": 873,
+      "binary_cost": 590,
+      "ternary_cost": 283,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 12,
+      "seed": 1031,
+      "joint_cost": 867,
+      "recombined_cost": 865,
+      "binary_cost": 588,
+      "ternary_cost": 277,
+      "proposals": 2000,
+      "gain": 2
+    },
+    {
+      "N": 12,
+      "seed": 1032,
+      "joint_cost": 891,
+      "recombined_cost": 891,
+      "binary_cost": 588,
+      "ternary_cost": 303,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 12,
+      "seed": 1033,
+      "joint_cost": 874,
+      "recombined_cost": 872,
+      "binary_cost": 588,
+      "ternary_cost": 284,
+      "proposals": 2000,
+      "gain": 2
+    },
+    {
+      "N": 12,
+      "seed": 1034,
+      "joint_cost": 872,
+      "recombined_cost": 865,
+      "binary_cost": 581,
+      "ternary_cost": 284,
+      "proposals": 2000,
+      "gain": 7
+    },
+    {
+      "N": 12,
+      "seed": 1035,
+      "joint_cost": 873,
+      "recombined_cost": 860,
+      "binary_cost": 590,
+      "ternary_cost": 270,
+      "proposals": 2000,
+      "gain": 13
+    },
+    {
+      "N": 12,
+      "seed": 1036,
+      "joint_cost": 873,
+      "recombined_cost": 867,
+      "binary_cost": 590,
+      "ternary_cost": 277,
+      "proposals": 2000,
+      "gain": 6
+    },
+    {
+      "N": 12,
+      "seed": 1037,
+      "joint_cost": 879,
+      "recombined_cost": 879,
+      "binary_cost": 589,
+      "ternary_cost": 290,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 12,
+      "seed": 1038,
+      "joint_cost": 855,
+      "recombined_cost": 855,
+      "binary_cost": 588,
+      "ternary_cost": 267,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 12,
+      "seed": 1039,
+      "joint_cost": 884,
+      "recombined_cost": 862,
+      "binary_cost": 585,
+      "ternary_cost": 277,
+      "proposals": 2000,
+      "gain": 22
+    },
+    {
+      "N": 12,
+      "seed": 1040,
+      "joint_cost": 863,
+      "recombined_cost": 856,
+      "binary_cost": 581,
+      "ternary_cost": 275,
+      "proposals": 2000,
+      "gain": 7
+    },
+    {
+      "N": 12,
+      "seed": 1041,
+      "joint_cost": 824,
+      "recombined_cost": 796,
+      "binary_cost": 519,
+      "ternary_cost": 277,
+      "proposals": 2000,
+      "gain": 28
+    },
+    {
+      "N": 12,
+      "seed": 1042,
+      "joint_cost": 867,
+      "recombined_cost": 834,
+      "binary_cost": 546,
+      "ternary_cost": 288,
+      "proposals": 2000,
+      "gain": 33
+    },
+    {
+      "N": 12,
+      "seed": 1043,
+      "joint_cost": 871,
+      "recombined_cost": 867,
+      "binary_cost": 590,
+      "ternary_cost": 277,
+      "proposals": 2000,
+      "gain": 4
+    },
+    {
+      "N": 12,
+      "seed": 1044,
+      "joint_cost": 877,
+      "recombined_cost": 877,
+      "binary_cost": 594,
+      "ternary_cost": 283,
+      "proposals": 2000,
+      "gain": 0
+    },
+    {
+      "N": 12,
+      "seed": 1045,
+      "joint_cost": 886,
+      "recombined_cost": 879,
+      "binary_cost": 589,
+      "ternary_cost": 290,
+      "proposals": 2000,
+      "gain": 7
+    },
+    {
+      "N": 12,
+      "seed": 1046,
+      "joint_cost": 791,
+      "recombined_cost": 777,
+      "binary_cost": 507,
+      "ternary_cost": 270,
+      "proposals": 2000,
+      "gain": 14
+    },
+    {
+      "N": 12,
+      "seed": 1047,
+      "joint_cost": 909,
+      "recombined_cost": 895,
+      "binary_cost": 620,
+      "ternary_cost": 275,
+      "proposals": 2000,
+      "gain": 14
+    },
+    {
+      "N": 12,
+      "seed": 1048,
+      "joint_cost": 833,
+      "recombined_cost": 826,
+      "binary_cost": 558,
+      "ternary_cost": 268,
+      "proposals": 2000,
+      "gain": 7
+    },
+    {
+      "N": 12,
+      "seed": 1049,
+      "joint_cost": 900,
+      "recombined_cost": 877,
+      "binary_cost": 593,
+      "ternary_cost": 284,
+      "proposals": 2000,
+      "gain": 23
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source_rows": 150,
+  "groups": [
+    {
+      "N": 10,
+      "rows": 50,
+      "joint_mean": 200.98,
+      "recombined_mean": 200.58,
+      "mean_gain": 0.4,
+      "median_gain": 0.0,
+      "strict_gains": 9,
+      "bootstrap_95_percentile_interval": [
+        0.16,
+        0.68
+      ]
+    },
+    {
+      "N": 11,
+      "rows": 50,
+      "joint_mean": 95.06,
+      "recombined_mean": 93.7,
+      "mean_gain": 1.36,
+      "median_gain": 0.0,
+      "strict_gains": 18,
+      "bootstrap_95_percentile_interval": [
+        0.8,
+        1.98
+      ]
+    },
+    {
+      "N": 12,
+      "rows": 50,
+      "joint_mean": 867.6,
+      "recombined_mean": 858.18,
+      "mean_gain": 9.42,
+      "median_gain": 6.5,
+      "strict_gains": 34,
+      "bootstrap_95_percentile_interval": [
+        6.66,
+        12.4
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+"schema":1,"version":"AME7DIA_PT-1.0","N":8,"d":6,"ame":false,"verified_cost":44,"cuts":162,"failing_cuts":36,
+"phase_convention":"tensor of fields; exp(2*pi*i*Tr(sum_{i<=j} Pij*xi*xj)/p); labels in polynomial basis",
+"fields":[{"p":2,"m":1,"q":2,"modulus":[],"matrix":[[0,0,1,0,0,1,1,0],[0,0,0,1,0,1,1,0],[1,0,0,0,1,1,0,0],[0,1,0,0,1,0,1,0],[0,0,1,1,0,0,0,1],[1,1,1,0,0,0,0,1],[1,1,0,1,0,0,0,1],[0,0,0,0,1,1,1,0]]},{"p":3,"m":1,"q":3,"modulus":[],"matrix":[[0,1,1,1,0,0,2,2],[1,0,0,1,2,1,1,1],[1,0,0,2,1,2,1,0],[1,1,2,0,1,0,2,1],[0,2,1,1,0,0,1,1],[0,1,2,0,0,0,2,0],[2,1,1,2,1,2,0,1],[2,1,0,1,1,0,1,0]]}],
+"parameters":{"seed":42,"replicas":4,"steps":2000,"restarts":5,"seed_tries":1,"swap_interval":25,"log_interval":200,"tmin":0.25,"tmax":50,"guide":0.84999999999999998,"diagonal":false,"keep_going":false,"verify_only":false},
+"winning_slot_seed":13679457532755275413,"winning_restart":0,"winning_slot":0,"winning_step":73,"proposals":40000,"swap_attempts":600,"swap_accepts":142,
+"timings_seconds":{"setup":0.00037833400000000003,"search":0.13897612500000001,"verification":5.0040999999999997e-05,"data_export":0.001025792,"total_through_data_export":0.14043029200000001}
+}

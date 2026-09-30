@@ -1,5 +1,5 @@
 #define AME_NO_MAIN
-#include "../AME7DIA_PT.cpp"
+#include "../AfAME.cpp"
 #include <cassert>
 using namespace ame;
 int main() {

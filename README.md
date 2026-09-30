@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="AfAME_logo.png" alt="AfAME logo" width="480">
+</p>
+
 # AfAME
 
 **Developed by Dr. Zakaria Dahbi**
@@ -25,7 +29,7 @@ The repository contains portable source. Clone it, then build the executable on 
 From this directory:
 
     make CXX=clang++
-    ./AME7DIA_PT -N 5 -d 2 --replicas 4 --steps 5000 --restarts 20 --seed 42
+    ./AfAME -N 5 -d 2 --replicas 4 --steps 5000 --restarts 20 --seed 42
 
 Or use the launcher, which builds automatically if necessary:
 
@@ -50,7 +54,7 @@ The temperature ladder is fixed within a restart. Restarts initialize all replic
 
 The included fresh 17-party example can be reproduced with:
 
-    ./AME7DIA_PT -N 17 -d 10001 --replicas 4 --steps 500 \
+    ./AfAME -N 17 -d 10001 --replicas 4 --steps 500 \
       --restarts 1 --seed 42 --swap-interval 5 --log-interval 50
 
 It reached zero cost by the 60-step dispatch boundary in the validation run. Its certificate and independent verification are in examples/search_17_10001. This observation does not establish comparative performance.
@@ -78,7 +82,7 @@ The Python verifier uses separate polynomial arithmetic, trial-division irreduci
 
 Recheck the manuscript's matrix:
 
-    ./AME7DIA_PT -N 17 -d 10001 \
+    ./AfAME -N 17 -d 10001 \
       --input examples/paper_17_10001.txt --verify-only --output paper_recheck
     python3 verify_certificate.py paper_recheck/certificate.json --progress
 

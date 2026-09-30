@@ -32,7 +32,7 @@ using Element = uint16_t;
 using Cost = int64_t;
 using Poly = std::vector<int>; // coefficients in increasing degree
 constexpr int MAX_FIELD = 1024;
-constexpr const char* VERSION = "AME7DIA_PT-1.0";
+constexpr const char* VERSION = "AfAME-1.0";
 void require(bool ok, const std::string& what) { if (!ok) throw std::runtime_error(what); }
 int mod(int x,int p) { x%=p; return x<0?x+p:x; }
 bool prime(int p) { if(p<2)return false;for(int i=2;int64_t(i)*i<=p;++i)if(p%i==0)return false;return true; }
@@ -404,7 +404,7 @@ int main(int argc,char**argv) {
     try {
         for(int i=1;i<argc;++i)if(std::string(argv[i])=="--help"||std::string(argv[i])=="-h") {
             std::cout<<"AfAME - Developed by Dr. Zakaria Dahbi\n"
-             "AME7DIA_PT (C++17 CPU threads)\n"
+             "AfAME (C++17 CPU threads)\n"
              "-N 7 -d 2 --replicas 4 --steps 5000 --restarts 20 --seed 1\n"
              "--tmin 0.25 --tmax 50 --guide 0.85 --swap-interval 25 --log-interval 200\n"
              "--output NEW_DIRECTORY  --memory-mb 512  --seed-tries 1\n"
